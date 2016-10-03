@@ -97,4 +97,12 @@ There must be an easier way....  and **there is**.
 
 BOOM. One line of code and you have your answer.
 
-Ruby allows you to chain methods together, making all of our dreams come true.
+Ruby allows you to chain methods together, making all of our dreams come true.		
+
+Here are a few more string methods. Take a guess as to what they might do and try them out on your own!
+
+	"string".capitalize
+
+	"string".gsub('i', 'aaaaa')
+	
+	"string".replace("new string")
